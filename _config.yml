@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-remote_theme: alshedivat/al-folio
+# remote_theme: alshedivat/al-folio
 
 title      : blank # the website title (if blank, full name will be used instead)
 first_name : Long
