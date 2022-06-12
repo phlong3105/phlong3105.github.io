@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Fellow | [Electrical & Computer Engineering](https://skb.skku.edu/eng_ice/index.do) | [Sungkyunkwan University](https://www.skku.edu/eng/index.do).
+subtitle: Postdoctoral Fellow | <a href='https://skb.skku.edu/eng_ice/index.do'>Electrical & Computer Engineering</a> | <a href='https://www.skku.edu/eng/index.do'>Sungkyunkwan University</a>.
 
 profile:
   align: right
