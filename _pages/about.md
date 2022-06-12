@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: Postdoctoral Fellow | <a href='https://skb.skku.edu/eng_ice/index.do'>Electrical & Computer Engineering</a> | <a href='https://www.skku.edu/eng/index.do'>Sungkyunkwan University</a>.
 
@@ -27,7 +27,7 @@ vision-based solutions to challenging problems and deploying them to mobile and
 edge devices.
 
 I received my Ph.D. in Computer Engineering from [Sungkyunkwan University](https://www.skku.edu/eng/index.do)
-in 2021, a M.Tech degree in Information Technology Management and a B.Sc degree 
+in 2021, a M.Tech degree in Information Technology Management and a B.Sc. degree 
 in Computer Science. Before joining AI Research, I worked on developing computer 
 vision system for traffic surveillance (vehicle detection & tracking,
 traffic flow estimation) and developing mobile applications for industrial usages.
