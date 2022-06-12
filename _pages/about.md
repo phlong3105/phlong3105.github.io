@@ -30,4 +30,4 @@ I received my Ph.D. in Computer Engineering from [Sungkyunkwan University](https
 in 2021, a M.Tech degree in Information Technology Management and a B.Sc. degree 
 in Computer Science. Before joining AI Research, I worked on developing computer 
 vision system for traffic surveillance (vehicle detection & tracking,
-traffic flow estimation) and developing mobile applications for industrial usages.
+traffic flow estimation) and developing industrial mobile applications.
