@@ -2,9 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Fellow
-| [Electrical & Computer Engineering](https://skb.skku.edu/eng_ice/index.do)
-| [Sungkyunkwan University](https://www.skku.edu/eng/index.do).
+subtitle: Postdoctoral Fellow | [Electrical & Computer Engineering](https://skb.skku.edu/eng_ice/index.do) | [Sungkyunkwan University](https://www.skku.edu/eng/index.do).
 
 profile:
 align: right
@@ -24,8 +22,9 @@ I am working as a Postdoctoral Fellow in the [Dept. of Electrical & Computer Eng
 with [Automation Lab](https://micro.skku.ac.kr/micro/index.do)
 under the guidance of Professor [Jae Wook Jeon](https://scholar.google.co.kr/citations?user=9z0SfKoAAAAJ&hl=ko).
 My research areas of interest are Computer Vision, Machine Learning, Image
-Processing,and Surveillance System. I am also passionate about designing vision-based
-solutions to challenging problems and deploying them to mobile and edge devices.
+Processing,and Surveillance System. I am also passionate about designing
+vision-based solutions to challenging problems and deploying them to mobile and 
+edge devices.
 
 I received my Ph.D. in Computer Engineering from [Sungkyunkwan University](https://www.skku.edu/eng/index.do)
 in 2021, a M.Tech degree in Information Technology Management and a B.Sc degree 
