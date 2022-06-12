@@ -12,7 +12,7 @@ image: prof_pic.jpg
 address: >
 <p>Room 83354, Research Complex 2</p>
 <p>2066 Seobu-ro Jangan-gu</p>
-<p>Suwon-si, South Korea 16419</p>
+<p>Suwon-si, South Korea 16419.</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
