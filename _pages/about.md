@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Postdoctoral Fellow | <a href='https://skb.skku.edu/eng_ice/index.do'>Electrical & Computer Engineering</a> | <a href='https://www.skku.edu/eng/index.do'>Sungkyunkwan University</a>.
 
