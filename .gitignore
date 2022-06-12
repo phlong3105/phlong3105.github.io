@@ -9,3 +9,9 @@ _site
 Gemfile.lock
 vendor
 
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/phlong3105.github.io.iml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
