@@ -427,10 +427,16 @@ footer.sticky-bottom {
     margin-bottom: -2rem;
     text-align: right;
   }
+  h2.type {
+    color: var(--global-theme-color);
+    border-bottom: 1px solid var(--global-theme-color);
+    text-align: left;
+  }
   ol.bibliography {
     list-style: none;
     padding: 0;
     margin-top: 0;
+    font-size: 1rem;
 
     li {
       margin-bottom: 1rem;
@@ -455,9 +461,11 @@ footer.sticky-bottom {
         }
       }
       .title {
+        text-align: justify;
         font-weight: bolder;
       }
       .author {
+        text-align: justify;
         a {
           border-bottom: 1px dashed var(--global-theme-color);
           &:hover {
@@ -468,9 +476,13 @@ footer.sticky-bottom {
         > em {
           border-bottom: 1px solid;
           font-style: normal;
+          .title {
+            color: var(--global-text-color);
+          }
         }
       }
       .links {
+        text-align: left;
         a.btn {
           color: var(--global-text-color);
           border: 1px solid var(--global-text-color);
@@ -558,6 +570,7 @@ html.transition *:after {
 }
 
 // Extra Markdown style (post Customization)
+
 .post{
   .post-meta{
     color: var(--global-text-color-light);

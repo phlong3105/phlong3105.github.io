@@ -1,18 +1,23 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Pham":
+  - firstname: ["Long", "L.", "L. H. P.", "Long Hoang"]
+    # url: https://en.wikipedia.org/wiki/Boris_Podolsky
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Nguyen-Ngoc Tran":
+  - firstname: ["Duong", "D.", "D. N.-N. T.", "Duong Nguyen-Ngoc"]
+    # url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Nguyen":
+  - firstname: ["Huy-Hung", "H.-H. N.", "Huy-Hung"]
+    # url: https://en.wikipedia.org/wiki/Nathan_Rosen
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Tran":
+  - firstname: ["Tai", "T. H.-P. T.", "Tai Huu-Phuong Tran"]
+    # url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Joon":
+  - firstname: ["Hyung-Joon", "H.-J. J.", "Hyung-Joon Jeon"]
+    # url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+
+"Jae":
+  - firstname: ["Jae", "J. W. J.", "Jae Wook Jeon"]
+    # url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
