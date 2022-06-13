@@ -18,6 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+## Currently
+
 I am working as a Postdoctoral Fellow in the [Dept. of Electrical & Computer Engineering](https://skb.skku.edu/eng_ice/index.do), 
 [Sungkyunkwan University](https://www.skku.edu/eng/index.do) and also affiliated
 with [Automation Lab](https://micro.skku.ac.kr/micro/index.do)
