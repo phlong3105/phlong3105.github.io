@@ -10,6 +10,10 @@ horizontal: false
 ---
 
 <!-- pages/projects.md -->
+
+Will be updated!
+
+<!--
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
@@ -56,3 +60,4 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
+-->
