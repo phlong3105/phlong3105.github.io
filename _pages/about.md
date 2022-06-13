@@ -30,7 +30,8 @@ vision-based solutions to challenging problems and deploying them to mobile and
 edge devices.
 
 I received my Ph.D. in Computer Engineering from [Sungkyunkwan University](https://www.skku.edu/eng/index.do)
-in 2021, a M.Tech degree in Information Technology Management and a B.Sc. degree 
-in Computer Science. Before joining AI Research, I worked on developing computer 
-vision system for traffic surveillance (vehicle detection & tracking,
-traffic flow estimation) and developing industrial mobile applications.
+in 2021; a M.Tech degree in Information Technology Management and a B.Sc. degree 
+in Computer Science from [Vietnam National University HCMC, International University](https://hcmiu.edu.vn/en/). 
+Before joining AI Research, I worked on developing computer vision system for 
+traffic surveillance (vehicle detection & tracking, traffic flow estimation) 
+and developing industrial mobile applications.
