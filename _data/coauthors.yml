@@ -1,9 +1,5 @@
-"Pham":
-  - firstname: ["Long", "L.", "L. H. P.", "Long Hoang"]
-    # url: https://en.wikipedia.org/wiki/Boris_Podolsky
-
 "Nguyen-Ngoc Tran":
-  - firstname: ["Duong", "D.", "D. N.-N. T.", "Duong Nguyen-Ngoc"]
+  - firstname: ["Duong", "D."]
     # url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
 
 "Nguyen":

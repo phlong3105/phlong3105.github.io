@@ -436,7 +436,7 @@ footer.sticky-bottom {
     list-style: none;
     padding: 0;
     margin-top: 0;
-    font-size: 1rem;
+    font-size: 0.9rem;
 
     li {
       margin-bottom: 1rem;
@@ -484,10 +484,12 @@ footer.sticky-bottom {
       .links {
         text-align: left;
         a.btn {
+          margin-left: -0.1em;
+          margin-right: -0.1em;
           color: var(--global-text-color);
           border: 1px solid var(--global-text-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
+          padding-left: 0.5rem;
+          padding-right: 0.5rem;
           padding-top: 0.25rem;
           padding-bottom: 0.25rem;
           &:hover {
