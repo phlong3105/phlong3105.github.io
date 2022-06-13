@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: 
-nav: true
+nav: false
 nav_order: 2
 display_categories: [work, Challenge, Research, Industry]
 horizontal: false
@@ -11,9 +11,6 @@ horizontal: false
 
 <!-- pages/projects.md -->
 
-Will be updated!
-
-<!--
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
@@ -60,4 +57,3 @@ Will be updated!
   {%- endif -%}
 {%- endif -%}
 </div>
--->
