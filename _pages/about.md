@@ -11,14 +11,12 @@ profile:
     <p>Room 83354, Research Complex 2</p>
     <p>Sungkyunkwan University</p>
     <p>2066 Seobu-ro Jangan-gu</p>
-    <p>Suwon-si, South Korea 16419.</p>
+    <p>Suwon-si, South Korea 16419</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
-## Currently
 
 I am working as a Postdoctoral Fellow in the [Dept. of Electrical & Computer Engineering](https://skb.skku.edu/eng_ice/index.do), 
 [Sungkyunkwan University](https://www.skku.edu/eng/index.do) and also affiliated

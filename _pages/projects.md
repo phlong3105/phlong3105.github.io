@@ -4,8 +4,8 @@ title: Projects
 permalink: /projects/
 description: 
 nav: false
-nav_order: 2
-display_categories: [work, Challenge, Research, Industry]
+nav_order: 3
+display_categories: [Challenge, Research, Industry]
 horizontal: false
 ---
 

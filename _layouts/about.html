@@ -12,27 +12,26 @@ layout: default
         </header>
 
         <article>
-          {% if page.profile -%}
-          <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
-            {%- if page.profile.image %}
-              {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
-              {% include figure.html 
-              path=profile_image_path 
-              class="img-fluid z-dept-1 rounded"
-              alt=page.profile.image -%}
-            {% endif -%}
-            {%- if page.profile.address %}
-            <div class="address" >
-              {{ page.profile.address }}
+          <div class="row">
+            {% if page.profile -%}
+            <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
+              {%- if page.profile.image %}
+                {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
+                {% include figure.html path=profile_image_path class="img-fluid z-dept-1 rounded" alt=page.profile.image -%}
+              {% endif -%}
+              {%- if page.profile.address %}
+              <div class="address" >
+                {{ page.profile.address }}
+              </div>
+              {%- endif %}
             </div>
             {%- endif %}
+            
+            <div class="col-sm-8 clearfix" style="text-align: justify;">
+              {{ content }}
+            </div>
           </div>
-          {%- endif %}
-
-          <div class="clearfix">
-            {{ content }}
-          </div>
-
+          
           {% if page.news -%}
           <!-- News -->
           {%- include news.html %}
@@ -55,5 +54,5 @@ layout: default
           </div>
           {%- endif %}
         </article>
-
-</div>
+        
+      </div>
