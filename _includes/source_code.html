@@ -1,0 +1,21 @@
+          
+          <div class="news">
+            <h2>Source Code</h2>
+            <p>Currently, I am maintaining the following open-source repositories</p>
+            
+            <div class="table-responsive">
+              <table class="table table-sm table-borderless">
+                <tr>
+                  <th scope="row">
+                      <a href="https://phlong3105.github.io/one" class=".btn .fs-3 .mb-4 .mb-md-0">One</a>
+                      <a href="https://github.com/phlong3105/one" class=".btn .fs-3 .mb-4 .mb-md-0">Github</a>
+                  </th>
+                  <td>A comprehensive research framework and knowledge base of my works related to computer vision, machine learning, and deep learning.</td>
+                </tr>
+              {%- endfor %}
+              </table>
+            </div>
+          {%- else -%}
+            <p>No news so far...</p>
+          {%- endif %}
+          </div>

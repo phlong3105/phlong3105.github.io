@@ -32,25 +32,27 @@ layout: default
             </div>
           </div>
           
-          {% if page.news -%}
           <!-- News -->
+          {% if page.news -%}
           {%- include news.html %}
           {%- endif %}
+          <!-- Source code -->
+          {% if page.source_code -%}
+          {%- include source_code.html %}
+          {%- endif %}
+          <!-- Selected papers -->
           {% if page.selected_papers -%}
-            <!-- Selected papers -->
             {%- include selected_papers.html %}
           {%- endif %}
-          {%- if page.social %}
           <!-- Social -->
+          {%- if page.social %}
           <div class="social">
             <div class="contact-icons">
             {% include social.html %}
             </div>
-
             <div class="contact-note">
               {{ site.contact_note }}
             </div>
-            
           </div>
           {%- endif %}
         </article>

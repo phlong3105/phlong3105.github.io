@@ -14,6 +14,7 @@ profile:
     <p>Suwon-si, South Korea 16419</p>
 
 news: true # includes a list of news items
+source_code: true # includes a list of source code
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
